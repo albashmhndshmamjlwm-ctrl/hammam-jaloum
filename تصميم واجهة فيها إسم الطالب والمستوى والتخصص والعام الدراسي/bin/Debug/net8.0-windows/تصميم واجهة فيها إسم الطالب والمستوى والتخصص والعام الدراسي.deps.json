@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي/1.0.0": {
+        "runtime": {
+          "تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

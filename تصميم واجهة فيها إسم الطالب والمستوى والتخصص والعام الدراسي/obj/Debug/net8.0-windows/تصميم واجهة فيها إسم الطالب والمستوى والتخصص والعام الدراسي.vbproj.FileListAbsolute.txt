@@ -1,0 +1,18 @@
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\bin\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.exe
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\bin\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.deps.json
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\bin\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\bin\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.dll
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\bin\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.pdb
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\تصميم_واجهة_فيها_إسم_الطالب_والمستوى_والتخصص_والعام_الدراسي.Form1.resources
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.AssemblyInfo.vb
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.sourcelink.json
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.dll
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\refint\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.dll
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.pdb
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\ref\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي.dll
+C:\Users\USER\Documents\GitHub\IT-projects\تصميم واجهة فيها إسم الطالب والمستوى والتخصص والعام الدراسي\obj\Debug\net8.0-windows\تصميم_واجهة_فيها_إسم_الطالب_والمستوى_والتخصص_والعام_الدراسي.Form2.resources
