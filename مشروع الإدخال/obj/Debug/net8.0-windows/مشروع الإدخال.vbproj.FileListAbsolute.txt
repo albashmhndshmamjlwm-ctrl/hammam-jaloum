@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\مشروع_الإدخال.Form1.resources
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\مشروع الإدخال.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\مشروع الإدخال.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\مشروع الإدخال.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\مشروع الإدخال.AssemblyInfo.vb
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\مشروع الإدخال.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\مشروع الإدخال.sourcelink.json
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\bin\Debug\net8.0-windows\مشروع الإدخال.exe
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\bin\Debug\net8.0-windows\مشروع الإدخال.deps.json
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\bin\Debug\net8.0-windows\مشروع الإدخال.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\bin\Debug\net8.0-windows\مشروع الإدخال.dll
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\bin\Debug\net8.0-windows\مشروع الإدخال.pdb
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\مشروع الإدخال.dll
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\refint\مشروع الإدخال.dll
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\مشروع الإدخال.pdb
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\مشروع الإدخال.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع الإدخال\obj\Debug\net8.0-windows\ref\مشروع الإدخال.dll

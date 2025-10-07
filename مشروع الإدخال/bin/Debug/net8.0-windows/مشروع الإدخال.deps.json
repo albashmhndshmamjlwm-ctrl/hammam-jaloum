@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "مشروع الإدخال/1.0.0": {
+        "runtime": {
+          "مشروع الإدخال.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "مشروع الإدخال/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
