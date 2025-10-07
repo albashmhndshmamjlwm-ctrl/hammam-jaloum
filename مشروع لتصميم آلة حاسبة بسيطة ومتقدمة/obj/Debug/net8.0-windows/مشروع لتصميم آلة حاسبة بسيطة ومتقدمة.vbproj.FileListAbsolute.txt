@@ -1,0 +1,18 @@
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\مشروع_لتصميم_آلة_حاسبة_بسيطة_ومتقدمة.Form1.resources
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\مشروع_لتصميم_آلة_حاسبة_بسيطة_ومتقدمة.Form2.resources
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.AssemblyInfo.vb
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.sourcelink.json
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\bin\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.exe
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\bin\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.deps.json
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\bin\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\bin\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.dll
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\bin\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.pdb
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.dll
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\refint\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.dll
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.pdb
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\IT-projects\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة\obj\Debug\net8.0-windows\ref\مشروع لتصميم آلة حاسبة بسيطة ومتقدمة.dll
